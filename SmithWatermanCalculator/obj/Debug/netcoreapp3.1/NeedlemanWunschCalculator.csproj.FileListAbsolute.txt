@@ -1,0 +1,16 @@
+C:\Users\EREN\Documents\Visual Studio 2019\Projects\NeedlemanWunschCalculator\NeedlemanWunschCalculator\bin\Debug\netcoreapp3.1\NeedlemanWunschCalculator.exe
+C:\Users\EREN\Documents\Visual Studio 2019\Projects\NeedlemanWunschCalculator\NeedlemanWunschCalculator\bin\Debug\netcoreapp3.1\NeedlemanWunschCalculator.deps.json
+C:\Users\EREN\Documents\Visual Studio 2019\Projects\NeedlemanWunschCalculator\NeedlemanWunschCalculator\bin\Debug\netcoreapp3.1\NeedlemanWunschCalculator.runtimeconfig.json
+C:\Users\EREN\Documents\Visual Studio 2019\Projects\NeedlemanWunschCalculator\NeedlemanWunschCalculator\bin\Debug\netcoreapp3.1\NeedlemanWunschCalculator.runtimeconfig.dev.json
+C:\Users\EREN\Documents\Visual Studio 2019\Projects\NeedlemanWunschCalculator\NeedlemanWunschCalculator\bin\Debug\netcoreapp3.1\NeedlemanWunschCalculator.dll
+C:\Users\EREN\Documents\Visual Studio 2019\Projects\NeedlemanWunschCalculator\NeedlemanWunschCalculator\bin\Debug\netcoreapp3.1\NeedlemanWunschCalculator.pdb
+C:\Users\EREN\Documents\Visual Studio 2019\Projects\NeedlemanWunschCalculator\NeedlemanWunschCalculator\obj\Debug\netcoreapp3.1\NeedlemanWunschCalculator.csproj.AssemblyReference.cache
+C:\Users\EREN\Documents\Visual Studio 2019\Projects\NeedlemanWunschCalculator\NeedlemanWunschCalculator\obj\Debug\netcoreapp3.1\NeedlemanWunschCalculator.Form1.resources
+C:\Users\EREN\Documents\Visual Studio 2019\Projects\NeedlemanWunschCalculator\NeedlemanWunschCalculator\obj\Debug\netcoreapp3.1\NeedlemanWunschCalculator.csproj.GenerateResource.cache
+C:\Users\EREN\Documents\Visual Studio 2019\Projects\NeedlemanWunschCalculator\NeedlemanWunschCalculator\obj\Debug\netcoreapp3.1\NeedlemanWunschCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EREN\Documents\Visual Studio 2019\Projects\NeedlemanWunschCalculator\NeedlemanWunschCalculator\obj\Debug\netcoreapp3.1\NeedlemanWunschCalculator.AssemblyInfoInputs.cache
+C:\Users\EREN\Documents\Visual Studio 2019\Projects\NeedlemanWunschCalculator\NeedlemanWunschCalculator\obj\Debug\netcoreapp3.1\NeedlemanWunschCalculator.AssemblyInfo.cs
+C:\Users\EREN\Documents\Visual Studio 2019\Projects\NeedlemanWunschCalculator\NeedlemanWunschCalculator\obj\Debug\netcoreapp3.1\NeedlemanWunschCalculator.csproj.CoreCompileInputs.cache
+C:\Users\EREN\Documents\Visual Studio 2019\Projects\NeedlemanWunschCalculator\NeedlemanWunschCalculator\obj\Debug\netcoreapp3.1\NeedlemanWunschCalculator.dll
+C:\Users\EREN\Documents\Visual Studio 2019\Projects\NeedlemanWunschCalculator\NeedlemanWunschCalculator\obj\Debug\netcoreapp3.1\NeedlemanWunschCalculator.pdb
+C:\Users\EREN\Documents\Visual Studio 2019\Projects\NeedlemanWunschCalculator\NeedlemanWunschCalculator\obj\Debug\netcoreapp3.1\NeedlemanWunschCalculator.genruntimeconfig.cache

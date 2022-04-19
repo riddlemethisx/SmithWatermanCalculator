@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SmithWatermanCalculator", "NeedlemanWunschCalculator\SmithWatermanCalculator.csproj", "{F1DD8749-4F1E-4832-914D-37358CD2AD17}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1DD8749-4F1E-4832-914D-37358CD2AD17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1DD8749-4F1E-4832-914D-37358CD2AD17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1DD8749-4F1E-4832-914D-37358CD2AD17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1DD8749-4F1E-4832-914D-37358CD2AD17}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7AB150E6-2CD7-4392-9572-F3688D0BBDAB}
+	EndGlobalSection
+EndGlobal

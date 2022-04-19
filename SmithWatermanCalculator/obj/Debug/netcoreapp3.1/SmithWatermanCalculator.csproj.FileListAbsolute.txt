@@ -1,0 +1,16 @@
+C:\Users\EREN\Documents\Visual Studio 2019\Projects\SmithWatermanCalculator\NeedlemanWunschCalculator\bin\Debug\netcoreapp3.1\SmithWatermanCalculator.exe
+C:\Users\EREN\Documents\Visual Studio 2019\Projects\SmithWatermanCalculator\NeedlemanWunschCalculator\bin\Debug\netcoreapp3.1\SmithWatermanCalculator.deps.json
+C:\Users\EREN\Documents\Visual Studio 2019\Projects\SmithWatermanCalculator\NeedlemanWunschCalculator\bin\Debug\netcoreapp3.1\SmithWatermanCalculator.runtimeconfig.json
+C:\Users\EREN\Documents\Visual Studio 2019\Projects\SmithWatermanCalculator\NeedlemanWunschCalculator\bin\Debug\netcoreapp3.1\SmithWatermanCalculator.runtimeconfig.dev.json
+C:\Users\EREN\Documents\Visual Studio 2019\Projects\SmithWatermanCalculator\NeedlemanWunschCalculator\bin\Debug\netcoreapp3.1\SmithWatermanCalculator.dll
+C:\Users\EREN\Documents\Visual Studio 2019\Projects\SmithWatermanCalculator\NeedlemanWunschCalculator\bin\Debug\netcoreapp3.1\SmithWatermanCalculator.pdb
+C:\Users\EREN\Documents\Visual Studio 2019\Projects\SmithWatermanCalculator\NeedlemanWunschCalculator\obj\Debug\netcoreapp3.1\SmithWatermanCalculator.csproj.AssemblyReference.cache
+C:\Users\EREN\Documents\Visual Studio 2019\Projects\SmithWatermanCalculator\NeedlemanWunschCalculator\obj\Debug\netcoreapp3.1\NeedlemanWunschCalculator.Form1.resources
+C:\Users\EREN\Documents\Visual Studio 2019\Projects\SmithWatermanCalculator\NeedlemanWunschCalculator\obj\Debug\netcoreapp3.1\SmithWatermanCalculator.csproj.GenerateResource.cache
+C:\Users\EREN\Documents\Visual Studio 2019\Projects\SmithWatermanCalculator\NeedlemanWunschCalculator\obj\Debug\netcoreapp3.1\SmithWatermanCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EREN\Documents\Visual Studio 2019\Projects\SmithWatermanCalculator\NeedlemanWunschCalculator\obj\Debug\netcoreapp3.1\SmithWatermanCalculator.AssemblyInfoInputs.cache
+C:\Users\EREN\Documents\Visual Studio 2019\Projects\SmithWatermanCalculator\NeedlemanWunschCalculator\obj\Debug\netcoreapp3.1\SmithWatermanCalculator.AssemblyInfo.cs
+C:\Users\EREN\Documents\Visual Studio 2019\Projects\SmithWatermanCalculator\NeedlemanWunschCalculator\obj\Debug\netcoreapp3.1\SmithWatermanCalculator.csproj.CoreCompileInputs.cache
+C:\Users\EREN\Documents\Visual Studio 2019\Projects\SmithWatermanCalculator\NeedlemanWunschCalculator\obj\Debug\netcoreapp3.1\SmithWatermanCalculator.dll
+C:\Users\EREN\Documents\Visual Studio 2019\Projects\SmithWatermanCalculator\NeedlemanWunschCalculator\obj\Debug\netcoreapp3.1\SmithWatermanCalculator.pdb
+C:\Users\EREN\Documents\Visual Studio 2019\Projects\SmithWatermanCalculator\NeedlemanWunschCalculator\obj\Debug\netcoreapp3.1\SmithWatermanCalculator.genruntimeconfig.cache
